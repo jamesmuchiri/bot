@@ -207,4 +207,3 @@ def chat():
             break
 
         print(chatWithBot(inp))
-chat()
